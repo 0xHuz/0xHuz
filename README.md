@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **0xHuz/0xHuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### What am I doing with my life
+![notlikethis](https://cdn.discordapp.com/attachments/917337266559528980/957186314283913256/notlikethis.png)
